@@ -1,0 +1,1 @@
+Course 4 in the Intro to Scripting series.  This is focused on data science-like analyzing data and presenting visual graphics.
